@@ -1,4 +1,4 @@
-import src.main.java.Counter;
+import src.main.java.Aritmatika;
 
 public class Driver {
     public static void main(String[] args) {
