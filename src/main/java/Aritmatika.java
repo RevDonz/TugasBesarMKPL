@@ -1,5 +1,5 @@
 package src.main.java;
-
+//command berhasil
 public class Aritmatika {
     private int angka1;
     private int angka2;
