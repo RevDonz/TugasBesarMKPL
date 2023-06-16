@@ -28,5 +28,3 @@ public class Aritmatika {
             System.out.println("Error: Tidak dapat membagi dengan nol!");
             return 0;
         }
-    }
-}
