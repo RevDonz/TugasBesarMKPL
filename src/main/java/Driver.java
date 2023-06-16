@@ -15,5 +15,6 @@ public class Driver {
         
         int hasilBagi = aritmatika.bagi();
         System.out.println("Hasil Pembagian: " + hasilBagi);
+        System.out.println("Hasil Pembagian: " + hasilBagi);
     }
 }
