@@ -30,4 +30,4 @@ public class CounterTest {
     assertEquals(aritmatika.bagi(), 30);
   }
 
-}
+
