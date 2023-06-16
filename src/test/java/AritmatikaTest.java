@@ -9,7 +9,7 @@ public class CounterTest {
   @test
   public void testTambah() {
     Aritmatika aritmatika = new Aritmatika(15, 3);
-    assertEquals(aritmatika.tambah(), 20);
+    assertEquals(aritmatika.tambah(), 18);
   }
 
   @test
