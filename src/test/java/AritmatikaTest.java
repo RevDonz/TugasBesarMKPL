@@ -26,8 +26,8 @@ public class CounterTest {
 
   @test
   public void testBagi() {
-    Aritmatika aritmatika = new Aritmatika(100, 4);
-    assertEquals(aritmatika.bagi(), 25);
+    Aritmatika aritmatika = new Aritmatika(120, 4);
+    assertEquals(aritmatika.bagi(), 30);
   }
 
 }
