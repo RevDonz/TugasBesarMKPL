@@ -10,7 +10,7 @@ public class Aritmatika {
     }
     
     public int tambah() {
-        return angka1 + angka2;
+        return angka1 + angka2 + 1;
     }
     
     public int kurang() {
