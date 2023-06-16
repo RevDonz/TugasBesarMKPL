@@ -29,5 +29,5 @@ public class CounterTest {
     Aritmatika aritmatika = new Aritmatika(120, 4);
     assertEquals(aritmatika.bagi(), 30);
   }
-
+}
 
